@@ -1,0 +1,7 @@
+name: FastSleepPlugin
+version: 1.0
+author: Rakilem YT
+main: com.Rakilem.fastsleep.FastSleepPlugin
+api: [1.0.0]
+description: Un plugin que acelera la velocidad de la noche cuando los jugadores están durmiendo.
+

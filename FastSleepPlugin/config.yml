@@ -1,0 +1,10 @@
+# Configuración para el plugin FastSleepPlugin
+
+# Define el incremento de tiempo de la noche por cada jugador adicional que está durmiendo.
+# Este valor indica cuánto se incrementará el tiempo de la noche por cada jugador adicional que está durmiendo.
+# Por ejemplo, si este valor está configurado en 100, el tiempo de la noche aumentará en 100 ticks por cada jugador adicional.
+timeIncreasePerPlayer: 100
+
+# Define si se debe forzar a los jugadores a despertarse cuando la hora del servidor sea 23000 (casi amanecer).
+# Si está habilitado, el plugin despertará a todos los jugadores que estén en la cama cuando la hora del servidor alcance 23000.
+forceWakeUpAtMorning: true

@@ -1,0 +1,9 @@
+# Configuration for the FastSleepPlugin
+
+# Define the time increase for the night for each additional player sleeping.
+# This value indicates how much the night time will be increased for each additional sleeping player.
+# For example, if this value is set to 100, the night time will increase by 100 ticks for each additional player.
+
+# In Minecraft, each second is equivalent to 20 ticks.
+# Therefore, if this value is set to 100, the night time will increase by 5 seconds for each additional player.
+timeIncreasePerPlayer: 100
